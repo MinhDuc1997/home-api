@@ -1,0 +1,21 @@
+[06-Mar-2018 06:16:29 UTC] PHP Warning:  file_get_contents(http://localhost/home/api/token.php?token=AITqTLDYwMbXsOCTCdNJio4dEQ5j8bTWtzfuGsFWV13QS9QcTN): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techitvn/public_html/home/api/checkToken.php on line 4
+[06-Mar-2018 06:16:29 UTC] PHP Notice:  Trying to get property of non-object in /home/techitvn/public_html/home/api/checkToken.php on line 6
+[07-Mar-2018 05:09:04 UTC] PHP Warning:  file_get_contents(http://localhost/home/api/token.php?token=ETRp59wQuUeQCcEAHELdiwSAJX8rZ5GHEPLmCYp9ccvzw0bRuv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techitvn/public_html/home/api/checkToken.php on line 4
+[07-Mar-2018 05:09:04 UTC] PHP Notice:  Trying to get property of non-object in /home/techitvn/public_html/home/api/checkToken.php on line 6
+[07-Mar-2018 05:09:10 UTC] PHP Warning:  file_get_contents(http://localhost/home/api/token.php?token=ETRp59wQuUeQCcEAHELdiwSAJX8rZ5GHEPLmCYp9ccvzw0bRuv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techitvn/public_html/home/api/checkToken.php on line 4
+[07-Mar-2018 05:09:10 UTC] PHP Notice:  Trying to get property of non-object in /home/techitvn/public_html/home/api/checkToken.php on line 6
+[07-Mar-2018 05:09:12 UTC] PHP Warning:  file_get_contents(http://localhost/home/api/token.php?token=ETRp59wQuUeQCcEAHELdiwSAJX8rZ5GHEPLmCYp9ccvzw0bRuv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techitvn/public_html/home/api/checkToken.php on line 4
+[07-Mar-2018 05:09:12 UTC] PHP Notice:  Trying to get property of non-object in /home/techitvn/public_html/home/api/checkToken.php on line 6
+[07-Mar-2018 05:09:13 UTC] PHP Warning:  file_get_contents(http://localhost/home/api/token.php?token=ETRp59wQuUeQCcEAHELdiwSAJX8rZ5GHEPLmCYp9ccvzw0bRuv): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techitvn/public_html/home/api/checkToken.php on line 4
+[07-Mar-2018 05:09:13 UTC] PHP Notice:  Trying to get property of non-object in /home/techitvn/public_html/home/api/checkToken.php on line 6
+[07-Mar-2018 05:09:32 UTC] PHP Warning:  file_get_contents(http://localhost/home/api/token.php?token=3BCNkIvaQ7S6M1LBTXZ3dD1ommLfvG3PGNxKXckwxvgpQalqMI): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techitvn/public_html/home/api/checkToken.php on line 4
+[07-Mar-2018 05:09:32 UTC] PHP Notice:  Trying to get property of non-object in /home/techitvn/public_html/home/api/checkToken.php on line 6
+[21-Mar-2018 04:05:11 UTC] PHP Warning:  file_get_contents(https://techitvn.com/home/api/token.php?token=u8KcK4UA1kNdC0UP2tzDyXOJhxi0NYQHgPKrlBNz66X5wZTuWm): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/techitvn/public_html/home/api/checkToken.php on line 4
+[21-Mar-2018 04:05:11 UTC] PHP Notice:  Trying to get property of non-object in /home/techitvn/public_html/home/api/checkToken.php on line 6

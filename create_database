@@ -1,0 +1,23 @@
+create database home
+
+create table users(
+	id_user int(100) UNSIGNED NOT NULL AUTO_INCREMENT,
+	username varchar(25),
+	password text,
+	email varchar(255),
+	primary key(id_user)
+)
+
+create table light(
+	id_light int(100) UNSIGNED NOT NULL AUTO_INCREMENT,
+	status int(10),
+	primary key(id_light)
+)
+
+create table token(
+	id_token int(100) UNSIGNED NOT NULL AUTO_INCREMENT,
+	token text,
+	user_id int(100),
+	date_create text,
+    	primary key(id_token)
+)
